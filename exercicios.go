@@ -2,7 +2,9 @@ package main
 
 // Preprocessamento guarda o que Preprocessa calcula e Distancia consulta.
 type Preprocessamento struct {
+	distancias []int
 	// TODO: declarar os campos necessários
+	//espero que esse seja "todos" os campos necessários 
 }
 
 // Preprocessa recebe um grafo linha, com pelo menos dois vértices e pesos

@@ -17,3 +17,6 @@ duas pessoas enviam o mesmo `.zip` na UFPR Virtual.
 
 Diga se usou ferramentas de IA generativa nesta atividade e em que partes. Não
 influencia a nota.
+
+> Pedi para explicar certos trechos de main.go e grafo.go que havia tido dificuldade de entender
+> Pedi para checar o código ao final para ver se estava correto, corrigi um erro no for que passava nos testes
